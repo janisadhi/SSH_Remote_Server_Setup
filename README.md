@@ -67,4 +67,4 @@ This project demonstrates how to set up a basic remote Linux server and configur
 
 ---
 
-#
+This project is part of [Janis Adhikari's](https://roadmap.sh/projects/ssh-remote-server-setup)  DevOps projects.
